@@ -18,6 +18,25 @@
     list-style-type: none;
 }
 
+.lists li:hover {
+    background-color: #F1EF9A;
+}
+
+.lists li {
+    width: 25%;
+    height: 10%;
+    color: #4D5061;
+    background-color: #E7E247;
+    text-align: center;
+    margin: auto;
+    border-radius: 10%;
+    margin-top:5%;
+}
+
+
+
+
+
 #divider {
     height: auto;
     width: 1px;

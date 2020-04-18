@@ -16,3 +16,7 @@ body {
     background-color: #4D5061;
     /* font-family: Merienda; */
 }
+
+a {
+    text-decoration: none;
+}
