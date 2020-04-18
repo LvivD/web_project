@@ -31,10 +31,9 @@ header {
     font-family: Bangers; 
     color: #4D5061;
     font-size: 64px;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     position: relative;
     top: -68px
-
 }
 
 .header-right a:hover {

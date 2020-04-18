@@ -1,4 +1,23 @@
 
+#html-list {
+    position: absolute;
+    height: auto;
+    width: 45%;
+    font-size: 200%;
+}
+
+#css-list {
+    position: absolute;
+    left: 55%;
+    height: auto;
+    width: 45%;
+    font-size: 200%;
+}
+
+.lists {
+    list-style-type: none;
+}
+
 #divider {
     height: auto;
     width: 1px;
