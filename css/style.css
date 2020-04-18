@@ -1,0 +1,59 @@
+@import "fonts.css";
+@import "header.css";
+
+main {
+    position: absolute;
+    top: 100px;
+}
+
+#divider {
+    height: 90%;
+    width: 0.05%;
+    background-color: #0A3833;
+    position: fixed;
+    top: 5%;
+    bottom: 0;
+    left: 55%;
+    right: 0;
+}
+
+.block-section {
+    position: relative;
+    top: 5%;
+}
+
+.example-section {
+    width: 40%;
+
+    top: 3%;
+    bottom: 0;
+    left: 3%;
+    right: 0;
+}
+
+.code-section {
+    width: 40%;
+    float: right;
+    top: 3%;
+    bottom: 0;
+    left: 57%;
+    right: 0;
+}
+
+#quote1 {
+    top: 3%;
+}
+
+body {
+    background-color: #4D5061;
+    /* font-family: Merienda; */
+}
+
+blockquote {
+    font-family: Merienda;
+    color: #E59F71;
+}
+
+code {
+    color: whitesmoke;
+}

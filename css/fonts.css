@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Merienda;
+    src: url(../fonts/Merienda/Merienda-Regular.ttf);
+}
+
+@font-face {
+    font-family: Bangers;
+    src: url(../fonts/Bangers/Bangers-Regular.ttf);
+}
+
+@font-face {
+    font-family: Mitr;
+    src: url(../fonts/Mitr/Mitr-Regular.ttf);
+}
+
+@font-face {
+    font-family: Cormorant;
+    src: url(../fonts/Cormorant/Cormorant-Bold.ttf);
+}
+
+@font-face {
+    font-family: Signika;
+    src: url(../fonts/Signika/Signika-Regular.ttf);
+}
