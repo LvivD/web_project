@@ -1,6 +1,5 @@
 @import "fonts.css";
 
-/* Style the header with a grey background and some padding */
 header {
     overflow: hidden;
     position: fixed;
@@ -11,12 +10,13 @@ header {
     background-color: #E9EDDE;
     color: #4D5061;
     padding: 20px 10px;
+    z-index: 10;
 }
 
-/* Style the header links */
 .header a {
     font-family: Bangers; 
     letter-spacing: 1px;
+    margin-left: 5px;
     float: left;
     color: #4D5061;
     text-align: center;
@@ -27,7 +27,6 @@ header {
     border-radius: 4px;
 }
 
-/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
 .logo {
     font-family: Bangers; 
     color: #4D5061;
@@ -38,18 +37,15 @@ header {
 
 }
 
-/* Change the background color on mouse-over */
 .header-right a:hover {
     background-color: #F1EF9A;
 }
 
-/* Style the active/current link*/
 .header a.active {
     background-color: #E7E247;
     color: #3D3B30;
 }
 
-/* Float the link section to the right */
 .header-right {
     float: right;
     position: relative;

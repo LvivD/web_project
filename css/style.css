@@ -12,43 +12,7 @@ main {
     color: #E5DFB9;
 }
 
-.block-section {
-    position: relative;
-    top: 5%;
-}
-
-.example-section {
-    width: 40%;
-
-    top: 3%;
-    bottom: 0;
-    left: 3%;
-    right: 0;
-}
-
-.code-section {
-    width: 40%;
-    float: right;
-    top: 3%;
-    bottom: 0;
-    left: 57%;
-    right: 0;
-}
-
-#quote1 {
-    top: 3%;
-}
-
 body {
     background-color: #4D5061;
     /* font-family: Merienda; */
-}
-
-blockquote {
-    font-family: Merienda;
-    color: #E59F71;
-}
-
-code {
-    color: whitesmoke;
 }

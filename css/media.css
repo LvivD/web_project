@@ -1,11 +1,65 @@
 
 #divider {
     height: auto;
-    width: 0.05%;
+    width: 1px;
     background-color: #E7E247;
     position: fixed;
     top: 100px;
     bottom: 25px;
     left: 55%;
+    right: 0px;
+}
+
+.block-section {
+    position: relative;
+    top: 5%;
+}
+
+.example-section {
+    width: 40%;
+    top: 3%;
+    bottom: 0;
+    left: 3%;
     right: 0;
+}
+
+.code-section {
+    width: 40%;
+    margin: auto;
+    float: right;
+}
+
+.block-divider {
+    height: 5%;
+}
+
+.example-divider {
+    height: 1px;
+    width: 56%;
+    background-color: #E7E247;
+    left: -3%;
+    position: relative;
+}
+
+.code-divider {
+    height: 1px;
+    width: 45%;
+    background-color: #E7E247;
+    left: 58%;
+    top: -1px;
+    position: relative;
+}
+
+blockquote {
+    font-family: Merienda;
+    color: #E7E247;
+}
+
+code {
+    color: whitesmoke;
+}
+
+pre {
+    margin: 0px,0px,0px,0px;
+    border: none;
 }
