@@ -1,24 +1,35 @@
 @font-face {
     font-family: Merienda;
+    font-weight: normal;
     src: url(../fonts/Merienda/Merienda-Regular.ttf);
 }
 
 @font-face {
+    font-family: Merienda;
+    font-weight: bold;
+    src: url(../fonts/Merienda/Merienda-Bold.ttf);
+}
+
+@font-face {
     font-family: Bangers;
+    font-weight: normal;
     src: url(../fonts/Bangers/Bangers-Regular.ttf);
 }
 
 @font-face {
     font-family: Mitr;
+    font-weight: normal;
     src: url(../fonts/Mitr/Mitr-Regular.ttf);
 }
 
 @font-face {
     font-family: Cormorant;
+    font-weight: bold;
     src: url(../fonts/Cormorant/Cormorant-Bold.ttf);
 }
 
 @font-face {
     font-family: Signika;
+    font-weight: normal;
     src: url(../fonts/Signika/Signika-Regular.ttf);
 }

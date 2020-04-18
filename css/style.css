@@ -1,20 +1,15 @@
 @import "fonts.css";
 @import "header.css";
+@import "media.css";
 
 main {
     position: absolute;
     top: 100px;
-}
-
-#divider {
-    height: 90%;
-    width: 0.05%;
-    background-color: #0A3833;
-    position: fixed;
-    top: 5%;
-    bottom: 0;
-    left: 55%;
-    right: 0;
+    left: 5%;
+    width: 90%;
+    font-family: Merienda;
+    font-weight: bold;
+    color: #E5DFB9;
 }
 
 .block-section {
