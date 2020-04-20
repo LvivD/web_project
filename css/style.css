@@ -20,3 +20,36 @@ body {
 a {
     text-decoration: none;
 }
+
+main.contacts div {
+    text-align: center;
+    color: #E7E247;
+} 
+
+main.contacts input {
+    background-color: #F1EF9A;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 20%;
+    font-family: Merienda;
+    text-align: center;
+} 
+
+main.contacts textarea {
+    background-color: #F1EF9A;
+    border: none;
+    border-radius: 5px;
+    height: 50%;
+    width: 40%;
+    font-family: Merienda;
+    text-align: center;
+} 
+
+main.contacts input:hover {
+    background-color: #E7E247;
+} 
+
+main.contacts p {
+    font-size: 150%;
+}
