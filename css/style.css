@@ -11,7 +11,7 @@ main {
     color: #E5DFB9;
 }
 
-main.bold {
+.bold {
     font-weight: bold;
 }
 
