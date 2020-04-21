@@ -8,8 +8,11 @@ main {
     left: 5%;
     width: 90%;
     font-family: Merienda;
-    font-weight: bold;
     color: #E5DFB9;
+}
+
+main.bold {
+    font-weight: bold;
 }
 
 body {

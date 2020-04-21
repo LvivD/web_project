@@ -25,7 +25,22 @@
 @font-face {
     font-family: Cormorant;
     font-weight: bold;
+    font-style: normal;
     src: url(../fonts/Cormorant/Cormorant-Bold.ttf);
+}
+
+@font-face {
+    font-family: Cormorant;
+    font-weight: normal;
+    font-style: normal;
+    src: url(../fonts/Cormorant/Cormorant-Regular.ttf);
+}
+
+@font-face {
+    font-family: Cormorant;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/Cormorant/Cormorant-Italic.ttf);
 }
 
 @font-face {

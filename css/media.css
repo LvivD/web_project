@@ -61,6 +61,12 @@
     width: 40%;
     margin: auto;
     float: right;
+    position: relative;
+}
+
+.code-section pre {
+    position: relative;
+    left: -20%;
 }
 
 .block-divider {
